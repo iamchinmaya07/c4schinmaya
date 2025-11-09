@@ -1,4 +1,4 @@
-<div>
+<div >
 <img  height="430" width="750" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Coding">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Chinmaya+Sahoo" alt="Typing SVG" /></a>
 </div>
@@ -17,9 +17,8 @@
     <a href="https://www.linkedin.com/in/chinmaya-sahoo-292146305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khitish kumar pradhan" height="30" width="40" /></a>
     <a href="https://leetcode.com/u/chinmaykumar9090/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khitish2004" height="30" width="40" /></a>
     <a href="https://www.codechef.com/users/knot_emus_49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khitish2004" height="30" width="40" /></a>
-    <a href="https://codeforces.com/profile/Chinmayc4s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khitish2004" height="30" width="40" /></a>
-    </p>
-    </div>
+</p>
+</div>
 
 <h3 align="left" display="flex">Languages:</h3>
 <p align="left" display="flex">
